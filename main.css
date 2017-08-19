@@ -1,0 +1,34 @@
+.people {
+	display: inline-flex;
+}
+
+.personCard {
+	border: solid black 1px;
+	width: 400px;
+	background-color: lightblue;
+	opacity: .50;
+}
+.personCard:hover {
+	opacity: 1;
+}
+.personCard:nth-child(2) {
+	background-color: lightyellow;
+}
+
+.personCard:nth-child(4) {
+	background-color: lightyellow;
+}
+
+img {
+	width: 200px;
+	display: block;
+}
+
+.Paul {
+	background-color: lightyellow;
+}
+
+body {
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4c/Political_World_Map.jpg");
+	background-size: 2000px;
+}
