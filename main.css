@@ -1,3 +1,12 @@
+#text {
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    display: block;
+}
+
+
 .people {
 	display: inline-flex;
 }
@@ -32,3 +41,9 @@ body {
 	background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/4c/Political_World_Map.jpg");
 	background-size: 2000px;
 }
+
+.title {
+text-align: center;
+text-shadow: 2px 2px 8px black;
+}
+
