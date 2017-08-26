@@ -15,7 +15,7 @@
 	border: solid black 1px;
 	width: 400px;
 	background-color: lightblue;
-	opacity: .7;
+	opacity: .8;
 }
 .personCard:hover {
 	opacity: 1;
